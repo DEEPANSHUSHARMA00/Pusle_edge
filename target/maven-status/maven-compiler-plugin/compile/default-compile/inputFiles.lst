@@ -1,0 +1,6 @@
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\config\KafkaConfig.java
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\patient\PatientCheckinProducer.java
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\doctor\DoctorLoadProducer.java
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\alert\HospitalAlertProducer.java
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\bed\BedStatusProducer.java
+C:\Users\deepanshu\Documents\Pulse_edge\Pusle_edge\src\main\java\com\hospital\producer\medicine\MedicineInventoryProducer.java
